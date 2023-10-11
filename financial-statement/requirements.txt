@@ -1,0 +1,6 @@
+streamlit run Home.py #This is the index page the controls and handle other section 
+pip install streamlit  #library for creating web applications with simple Python scripts.
+pip install pandas as pd #For handling data in tabular form.
+pip install json For #building web applications
+pip install requests #Used for making HTTP requests.
+pip install streamlit_lottie  #For displaying Lottie animations.
